@@ -14,5 +14,3 @@ function countDown(number) {
         number -= 1;
     }
 }
-
-countDown(4);
